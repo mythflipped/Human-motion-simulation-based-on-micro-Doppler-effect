@@ -7,7 +7,9 @@ My Simulation Step is as follows：
 
 2.Calculate the Radar Cross Section of human at every moment.
 
-3.Using STFT to generate radar response.
+3.Generate radar response.
+
+4.Using STFT to extract human Micro-doppler spectrum.
 
 
 There are many **imperfections** in this code. 
