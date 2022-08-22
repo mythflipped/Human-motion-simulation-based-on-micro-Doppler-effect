@@ -16,4 +16,4 @@ There are many **imperfections** in this code.
 
 If you have any improvements or problems you want to discuss with me, please email me and I will do my best to help you.
 
-My Email is [11811003@mail.sustech.edu.cn](mailto:11811003@mail.sustech.edu.cn)
+My Email is [pjiang@kth.se](mailto:pjiang@kth.se)
